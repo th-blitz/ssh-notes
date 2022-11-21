@@ -13,7 +13,7 @@ ssh-keygen
 ### 2. **Copying the public key (id_rsa.pub) from local host -> to the remote machine.**
 
 ```sh
-cat ~/.ssh/id-rsa.pub | ssh *username@remote_host* "mkdir -p ~/.ssh && cat >> ~/.shh/authorized_keys"
+cat ~/.ssh/id_rsa.pub | ssh *username@remote_host* "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
 ```
 *``` copying using ssh ```*
 

@@ -31,6 +31,11 @@ ssh target-linux@localhost -p 8080
 ### 4. **In case of file transfer via rsync over different ssh port.**
 
 ```sh      
-rsync --rsh='ssh -p2345' -avP <SourceFolder> target-linux@localhost:/path/to/destination/folder
+rsync --rsh='ssh -p8080' -avP <SourceFolder> target-linux@localhost:/path/to/destination/folder
+```
+*``` or ```*
+
+```sh
+ls /source/folders | xargs -n1 -P4 -I%  rsync --rsh='ssh -p8080' -avzP % target-linux@localhost:/destination/folder
 ```
 

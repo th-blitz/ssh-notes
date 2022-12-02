@@ -1,5 +1,5 @@
 # ssh-notes
-My public ssh key 
+My public ssh key ``` wsl ubuntu 20.04 ```
 ```sh
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCsvt86tZo2ZDY1d2ENRFVlu6h9Y8OTJe3f+XTNRFO1qufRQsu4w30VuP0olUXB4nNqyV+ObY1nyK/Nk+MAs7dppsofKTbSk9LusKTB7XhMtte1i9tbrkgyAofdo0EDQiszzgUTf+m2G5kdPdE0WNFCQbsIn0fjXlojSax1HCRbGY8dGrWLQmditp6NqWJPDIaDm8J1MW3x3iG7Luz8e4PtUHpTg8bp71hwlMkv2Q1pmWek5JuEqVbwuhOhIUWPP2rB0PDmTktmsaQj2RzjpiGDT2gC6OtmstcMIOghFQp8klTUqsem0y84ELbygghqTGOCvrRFdv+k7o+WJlYnXiPB2XniLb9id3ZhOOhE9uyMArfraFhWHlD6N92dRvHaSxQ/LTO+wUeB4qSSNOmP1ceJ2QcVCPB11ImhvibQSUCbNh+fjEkyXaXxQiSy1/VUBfCtXBOCsE0zSe0hnsJ5uiQxkXKTbjPrxU7eBwWp8eYOGU9kyQu1mXd/Yhn9kQO/5kk= thblitz@ThBlitz
 ```

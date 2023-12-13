@@ -1,5 +1,6 @@
 # ssh-notes
 My public ssh key ``` wsl ubuntu 20.04 ```
+id_win11.pub (ed25519)
 ```sh
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCqUMEpzBw+7ez2TwEmyywNFLzBnmAuctUsk4Bb/xC42jMcYPkiUY2uw4WKV0m8LIfGJA2HvwmtcWDE79iUlrQs35SiFKkKQQJWL5oK0FwSkJ/mJ4HmF8s/JDD3yJLJNChdJ0P0/RXKj0gfzHPNvFxSmsQ00CbbYDfvWR5kkiGwQpMiMOVIHWuvKVus9xU9mJy/R05xcrfsUz+fIg+hUawwzh/5zp1p1bOVdpGPUEIlkcL016nFoBqdD17KbkdK1myPK3kdi3MLvoRd1L/t+FRyGl5nkw0iTznB4z5CpdGH297QD165kjBs+g+M+te8hlfeP2r9dKIRldfs65p9lKMtnHex7Qt0d54QcNMYR8TcqREy+Qw7vu4XeNW/Pp/vbbJReDjbgpu8FyZZbIFOlYCyZMba1ARj07z8IIa3ZjWnmMFBlJ03B3vh8whSnTJz1gxY2Cj7YVD7QKYUSRnp5LscOLN7jumQ6FRtmqAtIfjEADHIho9YkTMYcZy9Woz1xu0= ghost@th-blitz
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH+ml2j9H+BE+bTj2F0uGBfM2DjUm/YAYI3/QmvGIUWR preet@th-blitz
 ```
